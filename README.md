@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Larissa Cristina](https://www.linkedin.com/in/larissacn-silva/)_ enquanto estudava em [Trybe] (https://www.betrybe.com/):rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Larissa Cristina](https://www.linkedin.com/in/larissacn-silva/)_ enquanto estudava em [Trybe](https://www.betrybe.com/) :rocket:
 
 _“A Trybe é a escola do futuro para quem quer melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando consegue um bom emprego.”_
 
@@ -84,7 +84,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - [] 10-3: _Jest - Simulando comportamentos_
 - [] 10-4: _ [Projeto - Montagem e Simulação de Jest] () _
 
-## Desenvolvimento de front-end: hourglass_flowing_sand:
+## Desenvolvimento de front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução - Reação
 
@@ -236,7 +236,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 
 - [] 34-1: _ [Projeto - Trybeer V2] () _
 
-## Ciência da Computação: hourglass_flowing_sand:
+## Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 35: Introdução - Ciência da Computação
 
@@ -253,4 +253,4 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - [] 36-4: _Entrada e Saída de Dados_
 - [] 35-5: _ [Projeto - Notícias de tecnologia] () _
 
-# [...]
+#[...]
