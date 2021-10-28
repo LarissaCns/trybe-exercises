@@ -1,0 +1,32 @@
+body{
+    font-size: 16px;
+    background-color: lightslategrey;
+  }
+  h1 {
+    font-family: monospace;
+    width: 200px;
+    color: orange;
+    font-weight: bold;
+    background-color:lightgray;
+  }
+  ul{
+    font-size: 30px;
+    font-weight: bolder;
+    width: 200px;
+  }
+  .mudar-cor{
+    background-color:lightgray;
+  }
+  p {
+    font-weight: 600;
+    font-size: 3em;
+  }
+  #amarelo {
+    background-color: yellow;
+  }
+  #vermelho {
+    background-color: red;
+  }
+  #marrom {
+    background-color: brown;
+  }
