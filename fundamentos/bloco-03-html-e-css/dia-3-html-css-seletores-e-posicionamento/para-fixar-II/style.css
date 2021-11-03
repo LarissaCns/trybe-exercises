@@ -1,0 +1,33 @@
+div:hover {
+    border: 2px solid gray;
+}
+
+div:first-of-type{
+    background-color: lemonchiffon;
+    
+}
+div:nth-last-of-type(4){
+    background-color:lightsteelblue;
+    
+}
+div:nth-last-of-type(3){
+    background-color:lightsalmon;
+    height: 40px;
+    
+}
+div:nth-last-of-type(2){
+    background-color:lightgrey;
+    
+}
+div:last-of-type{
+    background-color: rgb(178, 211, 223);
+    
+}
+
+h3 {
+    text-align: center;
+}
+
+div:nth-of-type(2n+1){
+    font-style: italic;
+}
