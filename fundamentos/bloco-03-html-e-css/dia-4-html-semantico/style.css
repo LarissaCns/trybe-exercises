@@ -6,10 +6,7 @@ a{
     text-decoration: none;
     color: ghostwhite;
 }
-a li{
-    text-decoration: none;
-    color: ghostwhite;
-}
+
 h1, h2, h3{
     letter-spacing: 3px;
     color: ghostwhite;
@@ -52,4 +49,11 @@ th , td{
 
 p{
     margin: 10px;
+}
+footer {
+    background-color: darkcyan;
+}
+footer h3 {
+    text-align: center;
+    padding: 20px;
 }
