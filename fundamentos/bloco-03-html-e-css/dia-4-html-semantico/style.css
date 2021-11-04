@@ -40,6 +40,7 @@ nav{
 #main {
     background-color: gray;
     padding: 50px;
+    
 }
 
 th , td{
@@ -56,4 +57,7 @@ footer {
 footer h3 {
     text-align: center;
     padding: 20px;
+}
+.conteudo {
+    
 }
