@@ -1,4 +1,4 @@
-const candidata = 59;
+const candidata = 80;
 
 if ( candidata >= 80 ){
     console.log('Parabéns, você foi aprovada(o)!');
