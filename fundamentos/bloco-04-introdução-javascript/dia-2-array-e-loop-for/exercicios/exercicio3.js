@@ -5,7 +5,7 @@ let soma = 0
 let media = 0
 for( let i in numbers ) {
      soma += numbers[i]
-     media = soma / numbers.length;
+     
 }
-
+media = soma / numbers.length;
 console.log(media);
