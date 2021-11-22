@@ -8,6 +8,5 @@ const pai = document.getElementById('pai');
     }
 
     const segundoEUltimoFilhoDoFilho = document.getElementById('segundoEUltimoFilhoDoFilho');
-    segundoEUltimoFilhoDoFilho.remove();
-
+    segundoEUltimoFilhoDoFilho.remove(); 
 
