@@ -40,19 +40,19 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - Trabalhando com itens_
 - [x] 5-3: _JavaScript - Eventos_
-- [] 5-4: _JavaScript - Web Storage_
-- [] 5-5: _ [Projeto - Gerador de Meme] () _
-- [] 5-6: _ [Projeto - Arte com Pixels] () _
-- [] 5-7: _ [Projeto - Lista de tarefas] () _
-- [] 5-7: _ [Projeto - Adivinhe a cor] () _
-- [] 5-7: _ [Projeto - Carta Misteriosa] () _
+- [x] 5-4: _JavaScript - Web Storage_
+- [x] 5-5: _ [Projeto - Gerador de Meme] () _
+- [x] 5-6: _ [Projeto - Arte com Pixels] () _
+- [x] 5-7: _ [Projeto - Lista de tarefas] () _
+- [x] 5-7: _ [Projeto - Adivinhe a cor] () _
+- [x] 5-7: _ [Projeto - Carta Misteriosa] () _
 
 ##### Bloco 6: HTML e CSS avançados
 
-- [] 6-1: _HTML e CSS - Formulários_
-- [] 6-2: _Bibliotecas Javascript e estruturas CSS_
-- [] 6-3: _CSS Flexbox - Parte 1_
-- [] 6-4: _CSS Flexbox - Parte 2_
+- [x] 6-1: _HTML e CSS - Formulários_
+- [x] 6-2: _Bibliotecas Javascript e estruturas CSS_
+- [x] 6-3: _CSS Flexbox - Parte 1_
+- [x] 6-4: _CSS Flexbox - Parte 2_
 - [] 6-5: _CSS Responsive - Mobile First_
 - [] 6-6: _ [Projeto - página inicial do Facebook] () _
 
