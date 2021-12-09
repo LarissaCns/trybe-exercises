@@ -53,19 +53,19 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - [x] 6-2: _Bibliotecas Javascript e estruturas CSS_
 - [x] 6-3: _CSS Flexbox - Parte 1_
 - [x] 6-4: _CSS Flexbox - Parte 2_
-- [] 6-5: _CSS Responsive - Mobile First_
-- [] 6-6: _ [Projeto - página inicial do Facebook] () _
+- [x] 6-5: _CSS Responsive - Mobile First_
+- [x] 6-6: _ [Projeto - página inicial do Facebook] () _
 
 ##### Bloco 7: JavaScript ES6 e testes de unidade
 
-- [] 7-1: _JavaScript ES6 - let, const, funções de seta e literais de modelo_
-- [] 7-2: _JavaScript ES6 - Objetos_
-- [] 7-3: _Testes de unidade em JavaScript_
-- [] 7-4: _ [Projeto - Testes de unidade de JavaScript] () _
+- [x] 7-1: _JavaScript ES6 - let, const, funções de seta e literais de modelo_
+- [x] 7-2: _JavaScript ES6 - Objetos_
+- [x] 7-3: _Testes de unidade em JavaScript_
+- [x] 7-4: _ [Projeto - Testes de unidade de JavaScript] () _
 
 ##### Bloco 8: JavaScript ES6
 
-- [] 8-1: _JavaScript ES6 - Funções de ordem superior - forEach, find, some, every, sort_
+- [x] 8-1: _JavaScript ES6 - Funções de ordem superior - forEach, find, some, every, sort_
 - [] 8-2: _JavaScript ES6 - Funções de ordem superior - mapa e filtro_
 - [] 8-3: _JavaScript ES6 - Funções de ordem superior - reduzir_
 - [] 8-4: _JavaScript ES6 - operador de propagação, parâmetro de descanso, desestruturação e mais_
