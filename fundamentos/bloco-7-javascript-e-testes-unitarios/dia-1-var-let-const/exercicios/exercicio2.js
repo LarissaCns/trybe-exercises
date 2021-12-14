@@ -4,8 +4,10 @@
 // Copie o código abaixo.
 
 const oddsAndEvens = [13, 3, 4, 10, 7, 2];
-     
-const arrayOrdenado = () => {
+
+//Ordenação normal
+
+/* const arrayOrdenado = () => {
     oddsAndEvens[0] = 2;
     oddsAndEvens[1] = 3;
     oddsAndEvens[2] = 4;
@@ -14,6 +16,20 @@ const arrayOrdenado = () => {
     oddsAndEvens[5] = 13;
     return oddsAndEvens;
 }
-
 const arrayNovo = arrayOrdenado();
-console.log(` Os números ${arrayNovo} se encontram ordenados de forma crescente!`); // será necessário alterar essa linha 😉
+console.log(` Os números ${arrayNovo} se encontram ordenados de forma crescente!`); // será necessário alterar essa linha 😉 */
+
+//Ordenação utilizando o sort
+
+oddsAndEvens.sort((a,b) => {
+    if (a > b ) {
+        return 1;
+    }
+    if ( a < b){
+        return -1;
+    }
+    return 0;
+});
+
+console.log(oddsAndEvens);
+
