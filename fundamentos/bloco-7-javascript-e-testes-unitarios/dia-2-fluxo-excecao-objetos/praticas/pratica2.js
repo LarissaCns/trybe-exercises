@@ -21,4 +21,4 @@ const criaObjeto = (objeto, chave, valor) => {
     return objeto;
 }
 
-console.log(criaObjeto(objeto, 'palavra', 'alo'))
+console.log(criaObjeto(objeto, 'palavra', 'alo'));
