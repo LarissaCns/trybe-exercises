@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculadora</title>
+  </head>
+  <body>
+    <main class="main-content">
+      <section>
+        <p class="paragrafo-main">Informe dois números para realizar a soma:</p>
+        <label class="primeiroValor" for="value1">Valor 1:</label>
+        <input type="text" id="value1" />
+        <label class="segundoValor" for="value2">Valor 2:</label>
+        <input type="text" id="value2" />
+        <button id="button">Somar</button>
+        <p id="result"></p>
+      </section>
+    </main>
+    <script>
+      //Função de verificação dos números 
+      function verificaNumero(value1, value2) {
+        if (isNaN(value1) || isNaN(value2)) {
+          throw new Error("Informe apenas números para realizar a soma");
+        }
+        if (!value1 || !value2) {
+          throw new Error("Informe os dois valores para realizar a soma");
+        }
+      }
+
+      //Função das somas 
+      function sum() {
+        //Soma os números
+        try {
+          const value1 = document.getElementById("value1").value;
+          const value2 = document.getElementById("value2").value;
+          verificaNumero(value1, value2);
+          const result = parseInt(value1) + parseInt(value2); //transforma a string em number 
+          document.getElementById("result").innerHTML = `Resultado: ${result}`;
+        } catch (error) { //Quando da erro 
+          document.getElementById("result").innerHTML = `Erro: ${error.message}`;
+        } finally { //Reseta os inputs 
+          document.getElementById("value1").value = ''; //reseta os valores 
+          document.getElementById("value2").value = ''; //reseta os valores 
+        }
+      }
+      window.onload = () => {
+        const button = document.getElementById("button");
+        button.addEventListener("click", sum);
+      };
+    </script>
+  </body>
+</html>
