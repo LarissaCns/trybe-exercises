@@ -66,8 +66,8 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 ##### Bloco 8: JavaScript ES6
 
 - [x] 8-1: _JavaScript ES6 - Funções de ordem superior - forEach, find, some, every, sort_
-- [] 8-2: _JavaScript ES6 - Funções de ordem superior - mapa e filtro_
-- [] 8-3: _JavaScript ES6 - Funções de ordem superior - reduzir_
+- [x] 8-2: _JavaScript ES6 - Funções de ordem superior - mapa e filtro_
+- [x] 8-3: _JavaScript ES6 - Funções de ordem superior - reduzir_
 - [] 8-4: _JavaScript ES6 - operador de propagação, parâmetro de descanso, desestruturação e mais_
 - [] 8-5: _ [Projeto - funções do zoológico] () _
 
