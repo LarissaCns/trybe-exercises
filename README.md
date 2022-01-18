@@ -79,10 +79,10 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 
 ##### Bloco 10: Jest
 
-- [] 10-1: _Primeiros Passos do Jest_
-- [] 10-2: _Jest - Testes assíncronos_
-- [] 10-3: _Jest - Simulando comportamentos_
-- [] 10-4: _ [Projeto - Montagem e Simulação de Jest] () _
+- [x] 10-1: _Primeiros Passos do Jest_
+- [x] 10-2: _Jest - Testes assíncronos_
+- [x] 10-3: _Jest - Simulando comportamentos_
+- [x] 10-4: _ [Projeto - Montagem e Simulação de Jest] () _
 
 ## Desenvolvimento de front-end :hourglass_flowing_sand:
 
