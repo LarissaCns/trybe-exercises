@@ -68,14 +68,14 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - [x] 8-1: _JavaScript ES6 - Funções de ordem superior - forEach, find, some, every, sort_
 - [x] 8-2: _JavaScript ES6 - Funções de ordem superior - mapa e filtro_
 - [x] 8-3: _JavaScript ES6 - Funções de ordem superior - reduzir_
-- [] 8-4: _JavaScript ES6 - operador de propagação, parâmetro de descanso, desestruturação e mais_
-- [] 8-5: _ [Projeto - funções do zoológico] () _
+- [x] 8-4: _JavaScript ES6 - operador de propagação, parâmetro de descanso, desestruturação e mais_
+- [x] 8-5: _ [Projeto - funções do zoológico] () _
 
 ##### Bloco 9: Assincronia e Callbacks
 
-- [] 9-1: _JavaScript Assíncrono e Callbacks_
-- [] 9-2: _Promessas JavaScript_
-- [] 9-3: _ [Projeto - Carrinho de compras] () _
+- [x] 9-1: _JavaScript Assíncrono e Callbacks_
+- [x] 9-2: _Promessas JavaScript_
+- [x] 9-3: _ [Projeto - Carrinho de compras] () _
 
 ##### Bloco 10: Jest
 
