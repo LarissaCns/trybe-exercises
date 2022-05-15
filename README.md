@@ -88,111 +88,92 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 
 ##### Bloco 11: Introdução - Reação
 
-- [] 11-1: _'Olá, mundo! ' não reaja! _
-- [] 11-2: _Componentes de reação_
-- [] 11-3: _ [Projeto - Biblioteca de Cartões de Filme] () _
+- [x] 11-1: _'Olá, mundo! ' não reaja! _
+- [x] 11-2: _Componentes de reação_
+- [x] 11-3: _ [Projeto - Biblioteca de Cartões de Filme] () _
 
 ##### Bloco 12: Reagir
 
-- [] 12-1: _Componentes com status_
-- [] 12-2: _Eventos e formas na reação_
-- [] 12-3: _ [Projeto - Biblioteca de cartões de filme com estado] () _
+- [x] 12-1: _Componentes com status_
+- [x] 12-2: _Eventos e formas na reação_
+- [x] 12-3: _ [Projeto - Biblioteca de cartões de filme com estado] () _
 
 ##### Bloco 13: Reagir
 
-- [] 13-1: _Melhorando a reutilização de componentes: props.children e PropTypes_
-- [] 13-2: _React Component Lifecycle_
-- [] 13-3: _Reat Router_
-- [] 13-4: _ [Projeto - Biblioteca de Cartões de Filme CRUD] () _
+- [x] 13-1: _Melhorando a reutilização de componentes: props.children e PropTypes_
+- [x] 13-2: _React Component Lifecycle_
+- [x] 13-3: _Reat Router_
+- [x] 13-4: _ [Projeto - Biblioteca de Cartões de Filme CRUD] () _
 
 ##### Bloco 14: Metodologias
 
-- [] 14-1: _Metodologias Ã ?? geis_
-- [] 14-2: _ [Projeto - Loja online de front-end] () _
+- [x] 14-1: _Metodologias Ã ?? geis_
+- [x] 14-2: _ [Projeto - Loja online de front-end] () _
 
 ##### Bloco 15: Testes de reação
 
-- [] 15-1: _Testing React with React Testing Library_
-- [] 15-2: _Testing React com a Biblioteca de Testes React - Parte 2_
-- [] 15-3: _ [Projeto - Testes de reação] () _
+- [x] 15-1: _Testing React with React Testing Library_
+- [x] 15-2: _Testing React com a Biblioteca de Testes React - Parte 2_
+- [x] 15-3: _ [Projeto - Testes de reação] () _
 
 ##### Bloco 16: Introdução ao Redux
 
-- [] 16-1: _Introdução ao Redux_
-- [] 16-2: _Reata com Redux - Parte 1_
-- [] 16-3: _Reat with Redux - Practice_
-- [] 16-4: _Reata com Redux - Parte 2_
-- [] 16-5: _Testes síncronos com React-Redux_
-- [] 16-6: _ [Projeto - Tabela com filtros de dados] () _
+- [x] 16-1: _Introdução ao Redux_
+- [x] 16-2: _Reata com Redux - Parte 1_
+- [x] 16-3: _Reat with Redux - Practice_
+- [x] 16-4: _Reata com Redux - Parte 2_
+- [x] 16-5: _Testes síncronos com React-Redux_
+- [x] 16-6: _ [Projeto - Tabela com filtros de dados] () _
 
 ##### Bloco 17: Reação do Projeto
 
-- [] 17-1: _ [Projeto - Jogo de curiosidades] () _
+- [x] 17-1: _ [Projeto - Jogo de curiosidades] () _
 
 ##### Bloco 18: API React & Context
 
-- [] 18-1: _React API Context_
-- [] 18-2: _React Hooks - useState e useContext_
-- [] 18-3: _React Hooks - useEffect e Custom Hooks_
-- [] 18-4: _ [Projeto - Tabela de dados StarWars com API de contexto e ganchos] () _
+- [x] 18-1: _React API Context_
+- [x] 18-2: _React Hooks - useState e useContext_
+- [x] 18-3: _React Hooks - useEffect e Custom Hooks_
+- [x] 18-4: _ [Projeto - Tabela de dados StarWars com API de contexto e ganchos] () _
 
 ##### Bloco 19: Projeto Front-end Final
 
-- [] 19-1: _ [Projeto - Aplicativo de receita] () _
+- [x] 19-1: _ [Projeto - Aplicativo de receita] () _
 
 ## Desenvolvimento de back-end :hourglass_flowing_sand:
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 
-- [] 20-1: _Banco de dados SQL_
-- [] 20-2: _Encontrando dados em um banco de dados_
-- [] 20-3: _Filtrando dados especificamente_
-- [] 20-4: _Manipulando tabelas_
-- [] 20-5: _ [Projeto - Todos por um] () _
+- [x] 20-1: _Banco de dados SQL_
+- [x] 20-2: _Encontrando dados em um banco de dados_
+- [x] 20-3: _Filtrando dados especificamente_
+- [x] 20-4: _Manipulando tabelas_
+- [x] 20-5: _ [Projeto - Todos por um] () _
 
 ##### Bloco 21: Bancos de dados relacionais
 
-- [] 21-1: _Funções mais usadas em SQL_
-- [] 21-2: _Descomplicando JOINs e UNIONs_
-- [] 21-3: _Rotinas e subconsultas armazenadas_
-- [] 21-4: _ [Projeto - Reforço do vocabulário] () _
+- [x] 21-1: _Funções mais usadas em SQL_
+- [x] 21-2: _Descomplicando JOINs e UNIONs_
+- [x] 21-3: _Rotinas e subconsultas armazenadas_
+- [x] 21-4: _ [Projeto - Reforço do vocabulário] () _
 
 ##### Bloco 22: Bancos de dados relacionais
 
-- [] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [] 22-2: _Normalização, formas normais e despejos_
-- [] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [] 22-3: _ [Projeto - Um para todos] () _
-
-##### Bloco 23: Introdução - NoSQL
-
-- [] 23-1: _MongoDB - Introdução_
-- [] 23-2: _Operadores de filtro_
-- [] 23-3: _ [Projeto - Voos de dados] () _
-
-##### Bloco 24: Atualizações
-
-- [] 24-1: _Atualiza Simples_
-- [] 24-2: _Updates Complex - Arrays - Parte 1_
-- [] 24-3: _Atualiza complexos - Arrays - Parte 2_
-- [] 24-4: _ [Projeto - Comércio] () _
-
-##### Bloco 25: Estrutura de agregação
-
-- [] 25-1: _Estrutura de agregação - Parte 1_
-- [] 25-2: _Estrutura de agregação - Parte 2_
-- [] 25-3: _ [Projeto - Agregações] () _
+- [x] 22-1: _Transformando ideias em um modelo de banco de dados_
+- [x] 22-2: _Normalização, formas normais e despejos_
+- [x] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
+- [x] 22-3: _ [Projeto - Um para todos] () _
 
 ##### Bloco 26: Introdução - NodeJS
 
-- [] 26-1: _NodeJS - Introdução_
-- [] 26-2: _NodeJS - Fluxo Assíncrono_
-- [] 26-3: _NodeJS - Arquitetura_
-- [] 26-4: _ [Projeto - A CLI de Gelo e Fogo] () _
+- [x] 26-1: _NodeJS - Introdução_
+- [x] 26-2: _NodeJS - Fluxo Assíncrono_
+- [x] 27-1: _Express: HTTP como Node.js_
+- [x] 26-3: _NodeJS - Arquitetura_
 
 ##### Bloco 27: NodeJS
 
-- [] 27-1: _Express: HTTP como Node.js_
+
 - [] 27-2: _Arquitetura de Software - Introdução ao MVC_
 - [] 27-3: _ [Projeto - Cookmaster] () _
 
